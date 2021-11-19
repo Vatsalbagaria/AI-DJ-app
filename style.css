@@ -1,0 +1,20 @@
+#header{
+    background-color: orange;
+    font-family: 'PT Sans Narrow', sans-serif;
+    padding: 10px 5px 10px 5px;
+    margin-top: 0px;
+}
+body{
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#songname_result{
+    background-color: #c50c59;
+    color: white;
+    width: fit-content;
+    padding: 15px 10px 15px 10px;
+}
+canvas{
+    margin-top: 100px;
+}
